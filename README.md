@@ -1,6 +1,6 @@
 # Olá, eu me chamo Ruan! 👋
 
-Bem-vindo ao meu perfil do GitHub! Aqui você encontrará projetos, colaborações e experimentos com Simplicida, Objetivos, Logica, Interpretação e Desenvolviemnto.
+Bem-vindo ao meu perfil do GitHub! Aqui você encontrará projetos, colaborações e experimentos com Simplicida, Objetivos, Logica, Interpretação e Dependencias invertidas.
 
 ## 🚀 Sobre Mim
 - 💻 Desenvolvedor full-stack
