@@ -8,9 +8,7 @@ Bem-vindo ao meu perfil do GitHub! Aqui você encontrará projetos, colaboraçõ
 - 📫 Contate-me em: [ruan.rolim.137@gmail.com](mailto:ruan.rolim.137@gmail.com)
 
 ## 🌟 Projetos em Destaque
-- [Nome do Projeto](https://github.com/usuario/projeto) - Breve descrição do projeto.
-- [Outro Projeto](https://github.com/usuario/outro-projeto) - Outra descrição.
-
+- [Portifolio](https://github.com/usuario/projeto) - Galeria com os projetos pessoais desse usuário da mimenção c-137.
 ## 🛠️ Tecnologias e Ferramentas
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
