@@ -10,7 +10,7 @@ Bem-vindo ao meu perfil do GitHub! Aqui você encontrará projetos, colaboraçõ
 - 📫 Contate-me em: [ruan.rolim.137@gmail.com](mailto:ruan.rolim.137@gmail.com)
 
 ## 🌟 Projetos em Destaque
-- [Portifolio](https://github.com/usuario/projeto) - Galeria com os projetos pessoais desse usuário da mimenção c-137.
+- [Portifolio](https://ruant-310.github.io/MoonLover) - Galeria com os projetos pessoais desse usuário da mimenção c-137.
 ## 🛠️ Tecnologias e Ferramentas
 ### Linguagens
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
