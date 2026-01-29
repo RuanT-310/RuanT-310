@@ -4,9 +4,8 @@ Bem-vindo ao meu perfil do GitHub! Aqui você encontrará projetos, colaboraçõ
 
 ## 🚀 Sobre Mim
 - 💻 Desenvolvedor full-stack
-  - S.O.L.I.D
-  - Clean code
-- 🎓 Estudante de SI pela Unifesspa
+- Discipulo dp S.O.L.I.D e Clean code
+- 🎓 Formado em SI pela Unifesspa
 - 📫 Contate-me em: [ruan.rolim.137@gmail.com](mailto:ruan.rolim.137@gmail.com)
 
 ## 🌟 Projetos em Destaque
