@@ -9,7 +9,7 @@ Bem-vindo ao meu perfil do GitHub! Aqui você encontrará projetos, colaboraçõ
 - 📫 Contate-me em: [ruan.rolim.137@gmail.com](mailto:ruan.rolim.137@gmail.com)
 
 ## 🌟 Dimenção T-310
-- Meus projetos disponíveis na meu [Portifolio](https://moonlove.me/ruan-moon).
+- Meus projetos disponíveis no meu [Portifolio](https://moonlove.me/ruan-moon).
 
 ## 🛠️ Tecnologias e Ferramentas
 ### Linguagens
