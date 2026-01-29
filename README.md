@@ -25,21 +25,3 @@ Bem-vindo ao meu perfil do GitHub! Aqui você encontrará projetos, colaboraçõ
 ![LangChain](https://img.shields.io/badge/LangChain-0B132B?style=for-the-badge&logo=chain&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-### Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-## 📈 Estatísticas
-<div align="center">
-
-<table style="border: none;">
-  <tr style="border: none;">
-    <td style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=RuanT-310&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub" />
-    </td>
-    <td style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuanT-310&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" />
-    </td>
-  </tr>
-</table>
-
-</div>
